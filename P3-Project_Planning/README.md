@@ -10,10 +10,19 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+Wireframe is located in attached PDF
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+Sprint Board:
+https://trello.com/b/yhtpeuSK/sprint
+
+User Stories board (will go into backlog on Sprint Board)
+https://trello.com/b/h2uSxA5t/user-stories
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+https://github.com/miketully426/RoadTripRunner
